@@ -3,4 +3,4 @@
     <item android:state_selected="true" android:color="@color/ic_coure_yi"/>
     <item android:color="@color/tab_indicator_text_unselected"/> <!-- not selected -->
 </selector>
-<!-- From: file:/E:/android/TimeTable1/app/src/main/res/drawable/tab_indicator_text.xml -->
+<!-- From: file:/D:/gitmlfmbc/TimeTableView/app/src/main/res/drawable/tab_indicator_text.xml -->

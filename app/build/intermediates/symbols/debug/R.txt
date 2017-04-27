@@ -52,8 +52,12 @@ int drawable select_label_wuw 0x7f02000c
 int drawable select_label_yi 0x7f02000d
 int drawable select_label_yiw 0x7f02000e
 int drawable select_label_yiwu 0x7f02000f
-int drawable tab_indicator_text 0x7f020010
-int id main_timetable_ly 0x7f090000
+int drawable share_term_table_footer 0x7f020010
+int drawable share_term_table_header 0x7f020011
+int drawable tab_indicator_text 0x7f020012
+int id main_screenshot 0x7f090002
+int id main_scrollview 0x7f090000
+int id main_timetable_ly 0x7f090001
 int layout activity_main 0x7f030000
 int menu main 0x7f080000
 int string action_settings 0x7f070000
