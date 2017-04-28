@@ -2,11 +2,25 @@
 <items version="2" >
 
     <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.0\748f0546d5c3c27f1aef07270ffea0c45f0c42a4\rxjava-1.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="748f0546d5c3c27f1aef07270ffea0c45f0c42a4">
+        <dex dex="D:\gitmlfmbc\TimeTableView\app\build\intermediates\pre-dexed\debug\rxjava-1.1.0-8ad53718875d263efc9f5dad95fc3130e7736adc.jar" />
+    </item>
+    <item
         jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
         <dex dex="D:\gitmlfmbc\TimeTableView\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-925875d9448dd345587cabdb9a56f4834d2efae9.jar" />
+    </item>
+    <item
+        jar="D:\gitmlfmbc\TimeTableView\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="D:\gitmlfmbc\TimeTableView\app\build\intermediates\pre-dexed\debug\classes-a31e87cb8d10eb824076baae620bbe03b237037e.jar" />
     </item>
     <item
         jar="D:\gitmlfmbc\TimeTableView\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"

@@ -9,6 +9,7 @@
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
         android:fillViewport="false"
+        android:translationX="500dp"
         >
 
         <com.shallcheek.timetale.TimeTableView
@@ -16,6 +17,7 @@
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
             android:orientation="vertical"
+            android:background="#ffffff"
             >
         </com.shallcheek.timetale.TimeTableView>
     </ScrollView>

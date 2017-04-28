@@ -67,7 +67,11 @@ public class MainActivity extends Activity {
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
             case R.id.main_screenshot:
-                ScreenshotUtil.getBitmapByView(this, (ScrollView) findViewById(R.id.main_scrollview));
+//                ScreenshotUtil.getBitmapByView(this, (ScrollView) findViewById(R.id.main_scrollview));
+//                SaveUtil.RxSave(this,(ScrollView) findViewById(R.id.main_scrollview),"MEC",0);
+//                SaveService.startSave(this, "MEC");
+                SaveAsyncTask.onSaveAsyncTask(this,(ScrollView) findViewById(R.id.main_scrollview),0,"MEC");
+
                 break;
         }
         return true;
